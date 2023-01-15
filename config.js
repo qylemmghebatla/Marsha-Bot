@@ -16,14 +16,14 @@ global.APIKeys = {
 
 
 // Other
-global.owner = ['6285704424543' ]
-global.ownernomer = "6285704424543"
-global.premium = ['6285704424543']
+global.owner = ['60177302593' ]
+global.ownernomer = "60177302593"
+global.premium = ['60177302593']
 global.packname = 'Kreyuk'
 global.author = 'Kreyuk'
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
-global.namebotmu = 'Masha-Bot'
+global.namebotmu = 'BangQyle'
 global.tutorial = 'https://www.youtube.com'
 global.sp = ''
 global.mess = {
@@ -63,7 +63,7 @@ global.limitAwal = {
 global.mygit = 'https://github.com/kreyuk'
 global.myyt = 'https://youtube.com/@kkreyuk9084'
 global.myytv = 'https://youtube.com/@kkreyuk9084'
-global.botname = 'Masha-Bot'
+global.botname = 'BangQyle'
 global.akulaku = 'kreyuk'
 global.ytname = 'K KREYUK'
 global.emot = {
